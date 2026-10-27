@@ -1,0 +1,5 @@
+.clasp.json
+.clasprc.json
+node_modules/
+preview/preview.html
+.DS_Store
